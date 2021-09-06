@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c263a87-3562-41b7-9bd7-703bf9372bf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/libs/ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/release/ESmartRestaurant-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/androidTest/java/com/mobi/efficacious/esmartrestaurant/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/FCMServices/MyFirebaseInstanceIdService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/FCMServices/MyFirebaseMessagingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/Food_description_dialogBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/Gmail_login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/KitchenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/Notifiacton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/People_Count_dialogBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/Splash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/activity/order_confrm_dialogbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/CategoryAdopter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/DashBoardAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/ExistingTableAdpter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/HomeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/KitchenOrderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/KitchenOrderDetailsAdopter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/MenuAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/MyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/OrderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/ViewCategoryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/ViewMenuAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/confrmation_order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/adapter/mergetable_adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/common/ConnectionDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/common/Spinner_error.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/database/Databasehelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Categories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/DataHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/ExistingTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/KichenOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/KichenOrderDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Menus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/entity/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/Bill_Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/Bill_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/CategoryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/EditOrderDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/ExistingOrderHomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/ExistingOrderedTableActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/ForgotPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/KichenOrderDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/MenuActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/New_Dashboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/OrderDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/Order_View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/Shift_table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/SignUpActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/Tablewise_Order_detail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/TakeAwayActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/ViewCategoryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/ViewMenuActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/main_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/fragment/mergetable_option.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/tab/ExistionOrder_Tab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/webservice/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/webservice/Responce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/webservice/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/mobi/efficacious/esmartrestaurant/webservice/WebServiceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/blink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/bounce.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/fadein.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/fadeout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/hide_to_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/move.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/rotate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/sequencial.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/show_from_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/slide_left_to_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/slide_right_to_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/slidedown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/slideup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/together.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/zoomin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/zoomout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_manage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_send.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v21/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_input_cursor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bt_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/button_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/chikendinner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/chinese_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/continental_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/dessert_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/e_smarts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/falooda1_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/icecreme_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/juice_beverage_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/lankmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/line1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/maharashtrian_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/maincourse1_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/mh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/nonvegetariansymbol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/pizza_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/pizzabanner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/rice_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/rupee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/salad_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/sandwich_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/selector_bg_edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/shadow_tile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/si.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/si_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/smily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/soup_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/starters_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/state_list_animator_z.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/username.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/vegetarianfoodsymbol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/font/monotypecursive.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_forgotpassword.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/alertdialog_custom_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/category_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/cateogotyadapter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/confrm_menu_dialogbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/editorderdetails_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/existingorderdtable_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/existingorderhome_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/existingtableadapter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/food_order_listview_confrm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/gmail_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/homeadapter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/kitchen_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/kitchenorderadopter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/kitchenorderdetails_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/kitchenorderdetailsadopter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/main_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/menuadpater_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/mergetable_adpter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/mergetable_gridview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/new_dashboard_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/new_dashboardrow_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/order_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/orderdetails_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/oreder_tab.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/person_count_dialogbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/slide.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/takeaway_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/viewcategory_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/viewcategoryadapter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/viewmenu_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/viewmenuadopter_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/logout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ex_oder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ex_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/flash_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/neworder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/swtich.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/tablewith.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/takeaway_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/view_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/chinese.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/continental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/desserts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ex_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/falooda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/flash_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_keyboard_arrow_right_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/icecreme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/idli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/juicebeverges.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/manicourse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/mh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/new_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/pizzas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/rice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/sandwich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/si.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/soup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/starter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/subtract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/swtich.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/takeaway_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/teabeverges.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/thali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/thali2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/thali3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/view_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ex_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/swtich.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/takeaway_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/view_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ex_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/takeaway_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/view_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ex_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/takeaway_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/view_order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/message.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/drawables.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/test/java/com/mobi/efficacious/esmartrestaurant/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RZ8M500D1KL]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xkt1LH16wpYL9dPM1Wy3N9CtsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="CMS.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c263a87-3562-41b7-9bd7-703bf9372bf7" name="Default Changelist" comment="" />
+      <created>1630910698205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630910698205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
